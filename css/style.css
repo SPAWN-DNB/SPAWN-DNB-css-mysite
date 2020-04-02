@@ -1,0 +1,102 @@
+body {
+  text-align: center;
+  font-family: Montserrat, tahoma, arial;
+  margin: 0;
+  color: #40514e;
+  background-color: #e4f9f5;
+}
+
+h1 {
+  font-family: Neucha, tahoma, arial;
+  font-size: 562.5%;
+  margin: 0 0 10 0;
+  color: #40514e;
+}
+
+h2 {
+  font-family: Montserrat, tahoma, arial;
+  color: #11999e;
+}
+
+h3 {
+  font-family: Montserrat, tahoma, arial;
+  color: #11999e;
+}
+
+hr {
+  border-style: dotted;
+  border-top: 1px;
+  border-width: 5px;
+  width: 10%;
+}
+
+.Trainee {
+  font-family: Montserrat, tahoma, arial;
+  position: relative;
+  bottom: 35px;
+  color: #40514e;
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.arjan {
+  border-radius: 100%;
+}
+
+.bottom-container {
+  background-color: #11999e;
+  height: 100px;
+  width: 100%;
+}
+
+.top-cloud {
+  position: absolute;
+  height: 70px;
+  width: auto;
+  top: 210px;
+  right: 500px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  height: 45px;
+  width: auto;
+  top: 180px;
+  left: 500px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 110px;
+}
+
+.skill-row {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.ice-cream {
+  height: 200px;
+}
+
+.burger {
+  height: 200px;
+}
+
+.footer-link {}
+
+.copyright {
+  color: white;
+}
